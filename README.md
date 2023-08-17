@@ -21,7 +21,7 @@ Navigate to the "Scenes" folder and open the main game scene.
 Build and run the game on your desired platform.
 
 
-<img width="490" alt="image" src="https://github.com/cglcavusoglu/Helix_Jump_Unity_Game/assets/73901104/acd9b204-bb54-47d5-8a84-5f72b46804de">
+<img width="490" height="400" alt="image" src="https://github.com/cglcavusoglu/Helix_Jump_Unity_Game/assets/73901104/acd9b204-bb54-47d5-8a84-5f72b46804de">
 
-<img width="500" alt="image" src="https://github.com/cglcavusoglu/Helix_Jump_Unity_Game/assets/73901104/c6e830f0-a691-464b-9f34-8640fecd015b">
+<img width="490" height="400" alt="image" src="https://github.com/cglcavusoglu/Helix_Jump_Unity_Game/assets/73901104/c6e830f0-a691-464b-9f34-8640fecd015b">
 
