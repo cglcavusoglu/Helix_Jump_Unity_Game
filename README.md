@@ -1,4 +1,4 @@
-# Helix_Jump_Unity_Game
+# Helix Jump Unity Game
 This repository contains the source code and assets for my version of the Helix Jump game, developed using Unity. Helix Jump is a popular casual mobile game where the player controls a bouncing ball through a series of rotating platforms.
 
 # About the Game
@@ -23,5 +23,5 @@ Build and run the game on your desired platform.
 
 <img width="490" alt="image" src="https://github.com/cglcavusoglu/Helix_Jump_Unity_Game/assets/73901104/acd9b204-bb54-47d5-8a84-5f72b46804de">
 
-<img width="490" alt="image" src="https://github.com/cglcavusoglu/Helix_Jump_Unity_Game/assets/73901104/c6e830f0-a691-464b-9f34-8640fecd015b">
+<img width="500" alt="image" src="https://github.com/cglcavusoglu/Helix_Jump_Unity_Game/assets/73901104/c6e830f0-a691-464b-9f34-8640fecd015b">
 
