@@ -1,5 +1,6 @@
 # Helix_Jump_Unity_Game
 This repository contains the source code and assets for my version of the Helix Jump game, developed using Unity. Helix Jump is a popular casual mobile game where the player controls a bouncing ball through a series of rotating platforms.
+
 **About the Game
 
 Helix Jump is a widely known casual mobile game where the player guides a bouncing ball as it navigates a series of platforms. The platforms are organized in a helix-like structure, and the player's goal is to bring the ball down as far as possible by strategically maneuvering it through gaps and openings in the platforms.
